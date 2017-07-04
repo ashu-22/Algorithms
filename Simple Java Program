@@ -1,0 +1,18 @@
+public class Solution
+{
+public static void main(String...args)
+{
+if(else > elseif)
+{
+System.out.print("Yes it is true");
+}
+else(elseif < else)
+{
+System.out.println("Not it is true");
+}
+elseif(elseif == else)
+{
+System.out.println("Yeah It can be working out");
+}
+}
+}
