@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+char*str1 = /0001;
+char*str2 = /0002;
+printf("%d", "%d", &*str1,*str2);
+scanf("Enter the str1 and str2");
+}
